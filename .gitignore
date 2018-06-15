@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MultiLinguagem/MultiLinguagem/bin/Debug
+/MultiLinguagem/MultiLinguagem/obj/Debug
+/MultiLinguagem/MultiLinguagem.Android/bin/Debug
+/MultiLinguagem/MultiLinguagem.Android/obj/Debug
+/MultiLinguagem/MultiLinguagem.iOS/obj/iPhone/Debug
+/MultiLinguagem/MultiLinguagem.UWP/obj
+/packages
